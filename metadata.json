@@ -1,0 +1,5 @@
+{
+  "name": "App Dashboard 3D",
+  "description": "A dashboard to manage and view web applications with 3D buttons and backup/restore functionality.",
+  "requestFramePermissions": []
+}
